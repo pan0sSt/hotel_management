@@ -1,0 +1,6 @@
+c:\users\pan\documents\visual studio 2017\Projects\Domes_Dedomenwn\Domes_Dedomenwn\obj\Debug\Domes_Dedomenwn.csprojResolveAssemblyReference.cache
+c:\users\pan\documents\visual studio 2017\Projects\Domes_Dedomenwn\Domes_Dedomenwn\bin\Debug\Domes_Dedomenwn.exe.config
+c:\users\pan\documents\visual studio 2017\Projects\Domes_Dedomenwn\Domes_Dedomenwn\bin\Debug\Domes_Dedomenwn.exe
+c:\users\pan\documents\visual studio 2017\Projects\Domes_Dedomenwn\Domes_Dedomenwn\bin\Debug\Domes_Dedomenwn.pdb
+c:\users\pan\documents\visual studio 2017\Projects\Domes_Dedomenwn\Domes_Dedomenwn\obj\Debug\Domes_Dedomenwn.exe
+c:\users\pan\documents\visual studio 2017\Projects\Domes_Dedomenwn\Domes_Dedomenwn\obj\Debug\Domes_Dedomenwn.pdb
